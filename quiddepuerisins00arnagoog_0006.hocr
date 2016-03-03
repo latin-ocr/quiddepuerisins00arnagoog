@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quiddepuerisins00arnagoog_0006.png"; bbox 0 0 3284 5480; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 456 2331 1477 2390">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 456 2331 1477 2390">
+     <span class='ocr_line' id='line_1_1' title="bbox 456 2331 1477 2390; baseline 0.004 -16"><span class='ocrx_word' id='word_1_1' title='bbox 456 2339 574 2377; x_wconf 72' lang='grc' dir='ltr'><strong>τοιοεΑκ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 593 2353 622 2362; x_wconf 97' lang='grc'>-</span> <span class='ocrx_word' id='word_1_3' title='bbox 639 2340 671 2376; x_wconf 71' lang='lat' dir='ltr'><strong>nx</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 686 2340 754 2376; x_wconf 68' lang='grc' dir='ltr'>τϊνιε</span> <span class='ocrx_word' id='word_1_5' title='bbox 771 2341 795 2376; x_wconf 80' lang='grc' dir='ltr'><strong>Α.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 812 2341 920 2378; x_wconf 71' lang='lat' dir='ltr'><strong>cuAuvm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 936 2341 965 2376; x_wconf 72' lang='grc' dir='ltr'><strong>ετ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 981 2339 1045 2390; x_wconf 74' lang='lat' dir='ltr'><strong>ms,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1063 2341 1103 2379; x_wconf 72' lang='lat' dir='ltr'><strong>vm</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1119 2341 1190 2378; x_wconf 70' lang='lat' dir='ltr'><strong>men</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1208 2341 1252 2378; x_wconf 69' lang='lat' dir='ltr'><strong>nus</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1269 2339 1421 2386; x_wconf 63' lang='lat' dir='ltr'><strong>sumnus,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1439 2331 1477 2378; x_wconf 80' lang='lat'><strong>28.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1646 5480">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1646 5480">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1646 5480; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1646 5480; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
